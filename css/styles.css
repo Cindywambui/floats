@@ -1,5 +1,4 @@
-.sidebar {
+.column {
     width: 30%;
-    float: right;
-    background-color: yellow;
+    float: left;
 }
